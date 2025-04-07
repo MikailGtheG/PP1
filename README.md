@@ -71,16 +71,33 @@ Fill out the following table, mapping decimal numbers `0` through `15` to their 
 |---------|------------------------|
 | 0       | 0000                   |
 | 1       | 0001                   |
-| ...     | ...                    |
-| 15      | ????                   |
+| 2       | 0010                   |
+| 3       | 0011                   |
+| 4       | 0100                   |
+| 5       | 0101                   |
+| 6       | 0110                   |
+| 7       | 0111                   |
+| 8       | 1000                   |
+| 9       | 1001                   |
+| 10      | 1010                   |
+| 11      | 1011                   |
+| 12      | 1100                   |
+| 13      | 1101                   |
+| 14      | 1110                   |
+| 15      | 1111                   |
 
 **How many binary digits (bits) are needed?**
 
 Explain how to calculate the number of bits required:
 <details>
 <summary>Your Answer</summary>
-Erase this text and write your answer here!
-</details>
+Four binary digits are needed to display 15 different numbers. Every number can be calculated using the division method with remainder. Each number can be divided by 2 with a remainder. The new number has a remainder of either 1 or 0. After completing the division table, it can be read from the bottom to the top. 
+For example: 14
+14 ÷ 2 = 7 R 0
+7 ÷ 2 = 3 R 1
+3 ÷ 2 = 1 R 1
+1 ÷ 2 = 0 R 1
+14 in decimal is the same as 1110 in binary
 
 ---
 
