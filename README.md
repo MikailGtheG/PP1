@@ -99,7 +99,7 @@ For example: 14
 1 ÷ 2 = 0 R 1
 14 in decimal is the same as 1110 in binary
 
----
+   ---
 
 ### Task 2: Mapping Binary to Binary
 Digital processors implement **logical functions** using **logic gates** like NAND, AND, OR, etc.
@@ -206,8 +206,11 @@ Using your Boolean equations, build a logic network in [CircuitVerse](https://ci
 <details>
 <summary>Your solution</summary>
 <a href="https://circuitverse.org/simulator/embed/2-bit-adder-for-pp1">Link!</a>
+   https://circuitverse.org/users/306038/projects/2-bit-adder-for-pp1
 </details>
 
+
+92 Minutes in Total
 ---
 
 **Remember:** Stop working after 90 minutes and record where you stopped!
