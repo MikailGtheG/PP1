@@ -205,7 +205,7 @@ Using your Boolean equations, build a logic network in [CircuitVerse](https://ci
 
 <details>
 <summary>Your solution</summary>
-A share link to your solution goes here: <iframe src="https://circuitverse.org/simulator/embed/2-bit-adder-for-pp1?theme=&display_title=false&clock_time=true&fullscreen=true&zoom_in_out=true" style="border-width:; border-style: ; border-color:;" name="myiframe" id="projectPreview" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500" width="500" allowFullScreen></iframe>
+<a href="https://circuitverse.org/simulator/embed/2-bit-adder-for-pp1">Link!</a>
 </details>
 
 ---
