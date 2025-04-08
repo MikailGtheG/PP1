@@ -213,5 +213,27 @@ Using your Boolean equations, build a logic network in [CircuitVerse](https://ci
 92 Minutes in Total
 ---
 
-**Remember:** Stop working after 90 minutes and record where you stopped!
+Note:
+
+Here is my solution. To avoid any potential confusion: I committed several times because I worked on the tasks at different times. However, I added up the total time and calculated it accordingly.
+
+In the end, I reached a total working time of 92 minutes.
+
+Thank you very much and stay healthy!
+
+Best regards
+Mikail Erarslan
+
+
+Notiz:
+
+Hier befindet sich meine Lösung. Um potentielle Verwirrung aufzuheben: Ich habe mehrmals commitet, weil ich die Aufgaben immer an unterschiedlichen Zeitpunkten bearbeitet habe. Die totale Dauer habe ich jedoch aufaddiert und dementsprechend auch ausgerechnet. 
+
+Schlussendlich bin ich auf 92 Minuten Arbeitszeit angekommen.
+
+Vielen Dank und bleiben Sie gesund!
+
+Mit freundlichen Grüßen
+
+Mikail Erarslan
 
