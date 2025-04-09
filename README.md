@@ -188,13 +188,13 @@ K-Map for Carry-out
 | 11  |  0 |  1 |  1 |  1 |
 | 10  |  0 |  0 |  1 |  1 |
 
-Cout = (A0 ⋅ B1 ⋅ B0) + (A1 ⋅ B1) + (A1 ⋅ A0 ⋅ B0)
+Cout = A0 ⋅ B1 ⋅ B0 + A1 ⋅ B1 + A1 ⋅ A0 ⋅ B0
 
-Q<sub>0</sub> = A1'·A0'·B1 + A1'·A0·B1·B0' + A1'·A0·B1'·B0 + A1·A0'·B1' + A1·A0·B0 + A1·A0·B1·B0
+Q<sub>0</sub> = A1'·A0'·B1 + A1'·A0·(B1⊕B0) + A1·A0'·B1' + A1·A0·B0
 
 Q<sub>1</sub> = A0 ⊕ B0
 
-C<sub>out</sub> =  (A0 ⋅ B1 ⋅ B0) + (A1 ⋅ B1) + (A1 ⋅ A0 ⋅ B0)
+C<sub>out</sub> = A0·B1·B0 + A1·(B1 + A0·B0)
 
 </details>
 
